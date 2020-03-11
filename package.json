@@ -1,0 +1,12 @@
+{
+  "name": "first-spike",
+  "version": "1.0.0",
+  "description": "Ideas taken from https://medium.com/@peterxjang/a-functional-canvas-approach-with-redux-ce59a369241b",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Tre'",
+  "license": "ISC"
+}
